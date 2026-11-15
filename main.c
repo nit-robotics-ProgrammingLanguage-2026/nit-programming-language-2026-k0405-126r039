@@ -12,7 +12,7 @@ int main(void) {
      double r=4.0;
      double pi=3.141592;
 
-     scanf("%lf",&X);
+     scanf("%lf",&x;
 
      a=x *360.0/(pi*r);
 
